@@ -1,0 +1,13 @@
+.out,
+.center {
+    background-color:#7393B3;
+    font-family: "lucida-console";
+    text-align:justify;
+}
+
+.heading,
+.sub-headings{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:#8CFFDB ;
+}
